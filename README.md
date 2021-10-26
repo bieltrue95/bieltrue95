@@ -8,3 +8,5 @@
 Enthusiast of the best web & mobile development technologies.
 
 "Nothing in this world beats good old persistence. 
+
+ ![Snake animation](https://github.com/bieltrue95/blob/output/github-contribution-grid-snake.svg)
