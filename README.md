@@ -6,6 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-devgtrue@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devgtrue@gmail.com)](mailto:devgtrue@gmail.com)
 
 I believe in creativity, I'm inspired by legacies and I'm passionate about problems.
+<br/>
 I only work on what I believe in, I love giving ideas and getting to know projects.
 
 "Nothing in this world beats good old persistence. 
