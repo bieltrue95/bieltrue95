@@ -5,7 +5,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Santos-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-jos%C3%A9-dos-santos-3171891b1/)](https://www.linkedin.com/in/gabriel-jos%C3%A9-dos-santos-3171891b1/) 
 [![Gmail Badge](https://img.shields.io/badge/-devgtrue@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devgtrue@gmail.com)](mailto:devgtrue@gmail.com)
 
-Enthusiast of the best web & mobile development technologies.
+I believe in creativity, I'm inspired by legacies and I'm passionate about problems.
+I only work on what I believe in, I love giving ideas and getting to know projects.
 
 "Nothing in this world beats good old persistence. 
 
