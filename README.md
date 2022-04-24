@@ -1,5 +1,6 @@
 Hi 👋 My name is Gabriel Santos
 ===============================
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bieltrue95&color=green" alt="Profile views" /> </p>
 
 I believe in creativity, I'm inspired by legacies and I'm passionate about problems.
 ------------------------------------------------------------------------------------
