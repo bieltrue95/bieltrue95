@@ -9,7 +9,6 @@ I only work on what I believe in, I love giving ideas and getting to know projec
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [devgtrue@gmail.com](mailto:devgtrue@gmail.com)
 * 🧠  I'm learning JavaScript
-* 🤝  I'm open to collaborating on Projects Front-End
 * ⚡  I AM OPEN TO COLLABORATE ON: Front-End Projects
 
 <a href="https://www.twitter.com/bieltrue95" target="_blank" rel="noreferrer"><img
