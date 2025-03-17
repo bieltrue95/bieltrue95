@@ -1,7 +1,6 @@
-# 👋 Olá! Eu sou o Gabriel Santos
+# 👋 Hello! I'm Gabriel Santos
 
-
-## 💻 Principais Habilidades e Conhecimentos
+## 💻 Main Skills and Knowledge
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-007396?style=for-the-badge&logo=csharp&logoColor=white"/>
@@ -19,7 +18,7 @@
   <img align="center" alt="MVC" src="https://img.shields.io/badge/MVC-8A8A8A?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </div>
 
-## 🛠 Ferramentas
+## 🛠 Tools
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img align="center" alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
@@ -29,7 +28,7 @@
   <img align="center" alt="Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white"/>
 </div>
 
-## 🚀 Futuras Áreas de Estudo
+## 🚀 Future Areas of Study
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -37,14 +36,14 @@
   <img align="center" alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 </div>
 
-## 🌍 Idiomas
+## 🌍 Languages
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img align="center" alt="Português" src="https://img.shields.io/badge/Portugu%C3%AAs-0078D4?style=for-the-badge&logo=language&logoColor=white"/>
-  <img align="center" alt="Inglês" src="https://img.shields.io/badge/Ingl%C3%AAs-1E90FF?style=for-the-badge&logo=language&logoColor=white"/>
+  <img align="center" alt="Portuguese" src="https://img.shields.io/badge/Portugu%C3%AAs-0078D4?style=for-the-badge&logo=language&logoColor=white"/>
+  <img align="center" alt="English" src="https://img.shields.io/badge/English-1E90FF?style=for-the-badge&logo=language&logoColor=white"/>
 </div>
 
-## 📞 Contato
+## 📞 Contact
 
 <div style="display: flex; flex-direction: column; gap: 10px; align-items: center;">
   <a href="https://www.linkedin.com/in/gabriel-josé-dos-santos" target="_blank">
@@ -55,11 +54,10 @@
   </a>
 </div>
 
-## 🛠 Tecnologias Usadas
+## 🛠 Technologies Used
 
-![Tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=bieltrue95&layout=compact&theme=dark)
+![Technologies](https://github-readme-stats.vercel.app/api/top-langs/?username=bieltrue95&layout=compact&theme=dark)
 
+## ℹ️ About Me
 
-## ℹ️ Sobre Mim
-
-Sou um desenvolvedor Full Stack apaixonado por criar soluções eficientes e escaláveis. Trabalho com tecnologias modernas como .NET, C#, ASP.NET Core, React, Next.js e SQL, e estou sempre buscando novas maneiras de melhorar meu código e minhas habilidades. Estou sempre atualizado nas melhores práticas da indústria e em tecnologias emergentes. Se você está procurando por um profissional que valoriza o desenvolvimento de software de qualidade, vamos conversar! 🚀
+I am a Full Stack Developer passionate about creating efficient and scalable solutions. I work with modern technologies such as .NET, C#, ASP.NET Core, React, Next.js, and SQL, and I am always looking for new ways to improve my code and skills. I stay updated with industry best practices and emerging technologies. If you're looking for a professional who values high-quality software development, let's talk! 🚀
