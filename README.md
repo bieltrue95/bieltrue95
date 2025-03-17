@@ -56,7 +56,7 @@
 
 ## 🛠 Technologies Used
 
-![Technologies](https://github-readme-stats.vercel.app/api/top-langs/?username=Bieltrue95&layout=compact&theme=dark)
+![Technologies](https://github-readme-stats.vercel.app/api/top-langs/?username=bieltrue95&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark)
 
 
 ## ℹ️ About Me
