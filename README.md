@@ -1,7 +1,6 @@
 # 👋 Hello! I'm Gabriel Santos
 
-## 💻 Main Skills and Knowledge
-
+## 💻 Main Skills
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-007396?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
