@@ -8,7 +8,7 @@ I only work on what I believe in, I love giving ideas and getting to know projec
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [devgtrue@gmail.com](mailto:devgtrue@gmail.com)
-* 🧠  I'm learning JavaScript
+
 
 
 
