@@ -18,8 +18,7 @@ ainda tenho muito a aprender, e isso não me incomoda.
 
 ### Estudando agora
 
-*Docker** — estou aprendendo a containerizar aplicações e entender o fluxo completo de deploy.
-
+*Docker** — Estou aprendendo a containerizar aplicações.
 ---
 
 ### Sobre
