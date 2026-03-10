@@ -2,7 +2,7 @@
 
 Desenvolvedor pleno em evolução, trabalho com **.NET** no backend e **React / Next.js** no frontend, gosto de escrever código que faça sentido pra quem vier depois, seja outra pessoa ou eu mesmo daqui a seis meses.
 
-ainda tenho muito a aprender, e isso não me incomoda
+ainda tenho muito a aprender, e isso não me incomoda.
 
 ---
 
