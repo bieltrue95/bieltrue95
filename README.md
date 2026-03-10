@@ -18,7 +18,7 @@ ainda tenho muito a aprender, e isso não me incomoda.
 
 ### Estudando agora
 
-**Docker** — sempre dependi de alguém configurando o ambiente por mim. Quero mudar isso.
+*Docker** — estou aprendendo a containerizar aplicações e entender o fluxo completo de deploy.
 
 ---
 
