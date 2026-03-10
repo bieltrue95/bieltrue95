@@ -26,7 +26,7 @@ ainda tenho muito a aprender, e isso não me incomoda.
 
 Gosto de entender o problema antes de sair codando, porque uma pergunta a mais no início costuma evitar bastante retrabalho no final
 
-Inglês técnico B2 — documentação, code review e comunicação em equipes internacionais sem problema.
+Inglês técnico B2 — documentação, code review e comunicação em equipes.
 
 ---
 
