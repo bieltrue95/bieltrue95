@@ -12,6 +12,8 @@ ainda tenho muito a aprender, e isso não me incomoda.
 
 **Frontend** — `React` · `Next.js` · `TypeScript` · `JavaScript` · `Playwright`
 
+**Observabilidade** — `Sentry`
+
 **DevOps & Ferramentas** — `Git` · `GitHub` · `Azure DevOps` · `Visual Studio` · `VS Code`
 
 ---
